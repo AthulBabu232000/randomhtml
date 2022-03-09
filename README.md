@@ -1,2 +1,2 @@
 # randomhtml
-simple html website for suji
+simple html website for zayan(original)
